@@ -412,3 +412,6 @@ DESC INTEGRATION gcs_crime_integration;
 | [assets/spark_job.py](assets/spark_job.py) | PySpark + Sedona spatial ETL job |
 | [assets/load_from_GCS.sql](assets/load_from_GCS.sql) | Loads staged data from `pipeline.csv/` in GCS into Snowflake tables |
 | [assets/join_all.sql](assets/join_all.sql) | Builds final `FINAL_TABLE` model |
+
+# Spatiotemporal-Analysis-of-Chicago-Crime-and-Housing-Value-Trends
+
